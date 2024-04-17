@@ -1,0 +1,317 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1392300743545402276
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1902854441363269036}
+  m_Layer: 0
+  m_Name: Stormtroopers
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1902854441363269036
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1392300743545402276}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 692902322781137280}
+  - {fileID: 6366589506573515263}
+  - {fileID: 5435982330468057625}
+  - {fileID: 7698784005909927920}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &340208141385592572
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1902854441363269036}
+    m_Modifications:
+    - target: {fileID: 752503878353953197, guid: faf4954d1ee664142926ecddbdb40531, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 752503878353953197, guid: faf4954d1ee664142926ecddbdb40531, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7288207861081170870, guid: faf4954d1ee664142926ecddbdb40531, type: 3}
+      propertyPath: m_Name
+      value: FrechSoldier Shturm (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7957643679978731788, guid: faf4954d1ee664142926ecddbdb40531, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 35.760002
+      objectReference: {fileID: 0}
+    - target: {fileID: 7957643679978731788, guid: faf4954d1ee664142926ecddbdb40531, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7957643679978731788, guid: faf4954d1ee664142926ecddbdb40531, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7957643679978731788, guid: faf4954d1ee664142926ecddbdb40531, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7957643679978731788, guid: faf4954d1ee664142926ecddbdb40531, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7957643679978731788, guid: faf4954d1ee664142926ecddbdb40531, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7957643679978731788, guid: faf4954d1ee664142926ecddbdb40531, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7957643679978731788, guid: faf4954d1ee664142926ecddbdb40531, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7957643679978731788, guid: faf4954d1ee664142926ecddbdb40531, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7957643679978731788, guid: faf4954d1ee664142926ecddbdb40531, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: faf4954d1ee664142926ecddbdb40531, type: 3}
+--- !u!4 &7698784005909927920 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7957643679978731788, guid: faf4954d1ee664142926ecddbdb40531, type: 3}
+  m_PrefabInstance: {fileID: 340208141385592572}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2674935744477985557
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1902854441363269036}
+    m_Modifications:
+    - target: {fileID: 752503878353953197, guid: faf4954d1ee664142926ecddbdb40531, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 752503878353953197, guid: faf4954d1ee664142926ecddbdb40531, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7288207861081170870, guid: faf4954d1ee664142926ecddbdb40531, type: 3}
+      propertyPath: m_Name
+      value: FrechSoldier Shturm (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7957643679978731788, guid: faf4954d1ee664142926ecddbdb40531, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 29.62
+      objectReference: {fileID: 0}
+    - target: {fileID: 7957643679978731788, guid: faf4954d1ee664142926ecddbdb40531, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7957643679978731788, guid: faf4954d1ee664142926ecddbdb40531, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7957643679978731788, guid: faf4954d1ee664142926ecddbdb40531, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7957643679978731788, guid: faf4954d1ee664142926ecddbdb40531, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7957643679978731788, guid: faf4954d1ee664142926ecddbdb40531, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7957643679978731788, guid: faf4954d1ee664142926ecddbdb40531, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7957643679978731788, guid: faf4954d1ee664142926ecddbdb40531, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7957643679978731788, guid: faf4954d1ee664142926ecddbdb40531, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7957643679978731788, guid: faf4954d1ee664142926ecddbdb40531, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: faf4954d1ee664142926ecddbdb40531, type: 3}
+--- !u!4 &5435982330468057625 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7957643679978731788, guid: faf4954d1ee664142926ecddbdb40531, type: 3}
+  m_PrefabInstance: {fileID: 2674935744477985557}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2691213511090540227
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1902854441363269036}
+    m_Modifications:
+    - target: {fileID: 2850605101814480377, guid: 35b0856b2b326e840b293a23f96b1a06, type: 3}
+      propertyPath: m_Name
+      value: FrechMashineguner Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 3225899565490186051, guid: 35b0856b2b326e840b293a23f96b1a06, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 13.42
+      objectReference: {fileID: 0}
+    - target: {fileID: 3225899565490186051, guid: 35b0856b2b326e840b293a23f96b1a06, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3225899565490186051, guid: 35b0856b2b326e840b293a23f96b1a06, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3225899565490186051, guid: 35b0856b2b326e840b293a23f96b1a06, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3225899565490186051, guid: 35b0856b2b326e840b293a23f96b1a06, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3225899565490186051, guid: 35b0856b2b326e840b293a23f96b1a06, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3225899565490186051, guid: 35b0856b2b326e840b293a23f96b1a06, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3225899565490186051, guid: 35b0856b2b326e840b293a23f96b1a06, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3225899565490186051, guid: 35b0856b2b326e840b293a23f96b1a06, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3225899565490186051, guid: 35b0856b2b326e840b293a23f96b1a06, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5249761313135443938, guid: 35b0856b2b326e840b293a23f96b1a06, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5249761313135443938, guid: 35b0856b2b326e840b293a23f96b1a06, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 35b0856b2b326e840b293a23f96b1a06, type: 3}
+--- !u!4 &692902322781137280 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3225899565490186051, guid: 35b0856b2b326e840b293a23f96b1a06, type: 3}
+  m_PrefabInstance: {fileID: 2691213511090540227}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3906188433831788787
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1902854441363269036}
+    m_Modifications:
+    - target: {fileID: 752503878353953197, guid: faf4954d1ee664142926ecddbdb40531, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 752503878353953197, guid: faf4954d1ee664142926ecddbdb40531, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7288207861081170870, guid: faf4954d1ee664142926ecddbdb40531, type: 3}
+      propertyPath: m_Name
+      value: FrechSoldier Shturm
+      objectReference: {fileID: 0}
+    - target: {fileID: 7957643679978731788, guid: faf4954d1ee664142926ecddbdb40531, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 22.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 7957643679978731788, guid: faf4954d1ee664142926ecddbdb40531, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7957643679978731788, guid: faf4954d1ee664142926ecddbdb40531, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7957643679978731788, guid: faf4954d1ee664142926ecddbdb40531, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7957643679978731788, guid: faf4954d1ee664142926ecddbdb40531, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7957643679978731788, guid: faf4954d1ee664142926ecddbdb40531, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7957643679978731788, guid: faf4954d1ee664142926ecddbdb40531, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7957643679978731788, guid: faf4954d1ee664142926ecddbdb40531, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7957643679978731788, guid: faf4954d1ee664142926ecddbdb40531, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7957643679978731788, guid: faf4954d1ee664142926ecddbdb40531, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: faf4954d1ee664142926ecddbdb40531, type: 3}
+--- !u!4 &6366589506573515263 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7957643679978731788, guid: faf4954d1ee664142926ecddbdb40531, type: 3}
+  m_PrefabInstance: {fileID: 3906188433831788787}
+  m_PrefabAsset: {fileID: 0}

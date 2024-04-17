@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: daaad898cee4e154983d97b498a32086
+  - enabled: 1
+    path: Assets/Scenes/LoadScreenMilunka.unity
+    guid: 64be757c956e0a9488004579cb48ffaf
+  - enabled: 1
+    path: Assets/Scenes/Kolubarska.unity
+    guid: b5389b3adbf863443b729c534ceb54be
+  - enabled: 1
+    path: Assets/Scenes/LoadScreenMcCrae.unity
+    guid: b18c9ef89736ae54e92643287eb3d0f9
+  - enabled: 1
+    path: Assets/Scenes/Ypres.unity
+    guid: b872ab8702c238b438756aaabcfdebf9
+  - enabled: 1
+    path: Assets/Scenes/LoadScreenFrancis.unity
+    guid: 67b23c68a6ecd2b44b8d086473eb56a2
+  - enabled: 1
+    path: Assets/Scenes/Verdun.unity
+    guid: 3a8d365f2cef7a3479cb45c4f8cf11f4
+  - enabled: 1
+    path: Assets/Scenes/LoadScreenAlbertRoche.unity
+    guid: 83ec8f0694cacfb4f997e2c73bdbfe62
+  - enabled: 1
+    path: Assets/Scenes/Alsace.unity
+    guid: 9402fc3961c21ba4db1ad3fbfe44acbd
+  - enabled: 1
+    path: Assets/Scenes/LoadScreenCarton.unity
+    guid: 627f4a36522f99d49ba9bd62da0792c2
+  - enabled: 1
+    path: Assets/Scenes/Passchendaele.unity
+    guid: 6b6d409a011d0d84793d831b8e2e273a
+  - enabled: 1
+    path: Assets/Scenes/LoadScreenArgane.unity
+    guid: 4eb5645927e28fd408d7257a31928e70
+  - enabled: 1
+    path: Assets/Scenes/Meuse-Argone.unity
+    guid: 53ecc7aa052bcaa49a3caa03fa5425b0
+  m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
